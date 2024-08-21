@@ -28,6 +28,10 @@
       #t_1_1.h2 1.1 Características del emprendedor
     
     .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Ser empresario y poner en marcha un proyecto, exige tener unas características personales y profesionales específicas; por lo tanto, un emprendedor debería cumplir por lo menos con las siguientes cualidades:
+    
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Creatividad e innovación")

@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Pensamiento estratégico y creación de empresa.',
+    componenteFormativo: 'Pensamiento estratégico y creación de empresa',
     descripcionCurso:
       'Las empresas tienen una característica fundamental, son creadas por emprendedores exitosos, quienes buscan satisfacer ciertas necesidades, contribuyendo al desarrollo económico del país. Por ello, al momento de crear empresa, se deben modificar las actitudes y aptitudes que permitan ir adquiriendo una independencia en ese aprender e interactuar en equipo, para hacer un desarrollo sostenible del proyecto de vida.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -113,7 +113,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: '6.	Delineando el plan estratégico',
+        titulo: 'Delineando el plan estratégico',
         desarrolloContenidos: true,
       },
     ],
@@ -207,7 +207,7 @@ export default {
     {
       termino: 'Estrategia de promoción de venta',
       significado:
-        'acciones encaminadas a que la estrategia del marketing, una de los componentes del plan estratégico de la organización, alcance los objetivos y metas en forma exitosa y específica para lograr el incremento de la rentabilidad en función de aumentar las ventas.',
+        'acciones encaminadas a que la estrategia del <em>marketing</em>, una de los componentes del plan estratégico de la organización, alcance los objetivos y metas en forma exitosa y específica para lograr el incremento de la rentabilidad en función de aumentar las ventas.',
     },
     {
       termino: 'Estrategia gerencial',
