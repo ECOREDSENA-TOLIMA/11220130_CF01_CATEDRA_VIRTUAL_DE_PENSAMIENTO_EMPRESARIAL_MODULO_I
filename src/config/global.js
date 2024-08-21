@@ -169,6 +169,14 @@ export default {
       tipo: 'Página web',
       link: 'https://revistaemprendedores.co/',
     },
+    {
+      tema: 'Ser emprendedor',
+      referencia:
+        'Cámara de Comercio de Bogotá. (2023). Prepárate para crear tu empresa',
+      tipo: 'Página web',
+      link:
+        'https://www.ccb.org.co/empresarial/crear-empresa/preparese-para-crear-empresa',
+    },
   ],
   glosario: [
     {
@@ -244,8 +252,53 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Armijo, M. (2011). Planificación estratégica e indicadores de desempeño en el sector público. Manual 69. Santiago de Chile, Chile: Naciones Unidas',
+      link: '',
+    },
+    {
+      referencia:
+        'David, F. (2008). Conceptos de Administración Estratégica. Ciudad de México, México: Ed. Pearson Prentice Hall, 11 edición.',
+      link: '',
+    },
+    {
+      referencia: 'Díaz, J. (2009). La importancia de Pensar Como Empresario.',
+      link:
+        'https://www.negociosyemprendimiento.org/2009/07/la-importancia-de-pensar-como.html',
+    },
+    {
+      referencia:
+        'Fred, D. (2008). Conceptos de Administración Estratégica. México. Pearson Prentice Hall.',
+      link: '',
+    },
+    {
+      referencia:
+        'Mendoza, A. (2005). Célebre Discurso de Steve Jobs en la Universidad de Stanford.',
+      link:
+        'http://mercadeoglobal.com/blog/textos-del-celebre-discurso-de-steve-jobs-en-la-universidad-de-stanford/',
+    },
+    {
+      referencia:
+        'Paredes, E. (2010). La Matriz FODA cruzada para ideas de negocio.',
+      link:
+        'http://gestionando-empresas.blogspot.com/2010/08/la-matriz-foda-cruzada-para-ideas-de-negocio.html',
+    },
+    {
+      referencia:
+        'Pick de Weiss, S. (1993). Planeando tu vida. México: Editorial Planeta.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rogers, T. (2008). Cómo reforzar una mentalidad de pensamiento positivo.',
+      link:
+        'https://es.wikihow.com/reforzar-una-mentalidad-de-pensamiento-positivo',
+    },
+    {
+      referencia:
+        'Secretaria General del Senado. (1971). Código de Comercio, Decreto 410 de marzo 27 de 1971.',
+      link:
+        'http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html',
     },
   ],
   creditos: [
