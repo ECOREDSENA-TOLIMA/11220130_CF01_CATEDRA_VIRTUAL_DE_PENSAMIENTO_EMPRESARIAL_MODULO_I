@@ -87,9 +87,9 @@ export default {
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema4',
         numero: '4',
-        titulo: '4.	Proyecto de vida',
+        titulo: 'Proyecto de vida',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -105,13 +105,13 @@ export default {
         ],
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema5',
         numero: '5',
         titulo: 'Análisis del entorno (DOFA)',
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema6',
         numero: '6',
         titulo: '6.	Delineando el plan estratégico',
         desarrolloContenidos: true,
