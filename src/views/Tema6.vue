@@ -36,7 +36,7 @@
       .col-lg-12
         p En este caso, se ha recorrido un camino que pasó por el plan económico, según el proyecto de vida, el análisis del sector, el análisis del entorno, el diagnóstico tanto interno y externo, según las matrices DOFA y DOFA cruzada y el diseño de estrategias. Ahora, en razón de la concienciación y la comprensión de los conceptos básicos, el límite del plan estratégico se establece en sus elementos estructurales, los cuales son:
 
-    .tarjeta.tarjeta--azul.p-4.mb-5
+    .tarjeta.tarjeta--azul.p-4.mb-5.bg1
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
