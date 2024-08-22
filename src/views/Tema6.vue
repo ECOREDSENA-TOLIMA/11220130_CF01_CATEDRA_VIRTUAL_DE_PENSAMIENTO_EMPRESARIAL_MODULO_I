@@ -39,59 +39,59 @@
     .tarjeta.tarjeta--azul.p-4.mb-5.bg1
       SlyderA(tipo="b")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             h4 Visión
             p Debe ser un párrafo corto, el cual refleje cómo se quiere proyectar la empresa, cuáles metas se van a poder cumplir con esta idea de negocio, cómo se espera que lo reconozcan dentro del mercado, qué posición se pretende ocupar en el mercado y qué estándares de calidad se piensan alcanzar. En este punto es necesario tener en cuenta los valores y las convicciones de la empresa.
-          .col-md-6
+          .col-md-8
             figure
               img(src='@/assets/curso/temas/tema6/img4.jpg', alt='Imagen decorativa')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             h4 Establecimiento de políticas
             p Algunas de estas variables están contempladas en el análisis del entorno. Se trata de definir las principales tendencias: políticas, económicas, tecnológicas, religiosas, sociales, intelectuales y artísticas, las cuales afectan o representan una amenaza para la organización, así como aquellas que constituyen una oportunidad. Estas políticas direccionan el desarrollo de la empresa.
-          .col-md-6
+          .col-md-8
             figure
               img(src='@/assets/curso/temas/tema6/img5.jpg', alt='Imagen decorativa')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             h4 Misión
             p Es un párrafo breve y simple que refleja la intención de la empresa. Responde a una pregunta fundamental: ¿cómo alcanzar la visión? En consecuencia, se debe indicar qué hace la organización, quiénes son sus clientes, cuál es el origen de la empresa, a qué sector industrial pertenece, nicho o segmento de mercado al que está vinculado, qué expectativas tienen los clientes de la empresa, cómo enfrenta los riesgos, cómo buscará la rentabilidad, entre otros.
-          .col-md-6
+          .col-md-8
             figure
               img(src='@/assets/curso/temas/tema6/img6.jpg', alt='Imagen decorativa')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             h4 Análisis DOFA
             p Corresponde al análisis de Debilidades, Oportunidades, Fortalezas y Amenazas.
-          .col-md-6
+          .col-md-8
             figure
               img(src='@/assets/curso/temas/tema6/img7.jpg', alt='Imagen decorativa')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             h4 Definición de objetivos
             p Entre los objetivos, se debe tener en cuenta que hay unos a corto plazo en un espacio de uno o dos años y otros a largo plazo, ambos determinados por los resultados de la evaluación externa e interna. Finalmente, deben enumerarse jerárquicamente.
-          .col-md-6
+          .col-md-8
             figure
               img(src='@/assets/curso/temas/tema6/img8.jpg', alt='Imagen decorativa')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             h4 Análisis de los factores que inciden sobre cada objetivo
             p Debe examinarse cuáles son las fuerzas, factores o actitudes que favorecen el logro de cada objetivo. Este análisis pretende identificar aquello que potencie dichas fuerzas positivas.
-          .col-md-6
+          .col-md-8
             figure
               img(src='@/assets/curso/temas/tema6/img9.jpg', alt='Imagen decorativa')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             h4 Planes de acción
             p Para cada objetivo específico deben establecerse las medidas o acciones que reducirán los aspectos negativos y maximizarán los positivos. Esto implica definir a una persona encargada, así como también los recursos, el momento y el lugar en que serán implementadas cada una de estas acciones.
-          .col-md-6
+          .col-md-8
             figure
               img(src='@/assets/curso/temas/tema6/img10.jpg', alt='Imagen decorativa')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             h4 Asignación de responsabilidades
             p Refiere al cronograma de trabajo, discriminado en actividades y tareas asignadas a los miembros de la empresa. Además, incluye el procedimiento de control y de ajuste.
-          .col-md-6
+          .col-md-8
             figure
               img(src='@/assets/curso/temas/tema6/img11.jpg', alt='Imagen decorativa')
 
