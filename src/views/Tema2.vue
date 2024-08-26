@@ -10,18 +10,18 @@
       .col-lg-12
         figure
           img(src='@/assets/curso/temas/tema2/img1.png', alt='Imagen decorativa')
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-12
         p El pensamiento empresarial tiene inmerso algunos aspectos, los cuales se deben llevar a cabo para su adecuada construcción; estos, serán explicados a partir del siguiente contenido.
 
     separador
 
-    .titulo-segundo.mt-5.color-acento-contenido
+    .titulo-segundo.color-acento-contenido
       #t_2_1.h2 2.1 Creatividad e innovación
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p El apoyo a la innovación, el desarrollo tecnológico, la formación profesional, el talento humano y la promoción de la creatividad, conforman un escenario adecuado para que el esfuerzo de identificación de oportunidades de negocio, tenga impacto al desarrollar posteriormente empresas con capacidad de innovación y de incorporación de las nuevas tecnologías, que van a hacer de Colombia una economía competitiva en este siglo.
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema2/img2.png', alt='Imagen decorativa')
@@ -35,7 +35,7 @@
     
     separador 
     
-    .titulo-segundo.mt-5.color-acento-contenido
+    .titulo-segundo.color-acento-contenido
       #t_2_2.h2 2.2 Pensamiento creativo
     
     .row.justify-content-center.align-items-center.mb-5
@@ -47,7 +47,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/img3.png', alt='Imagen decorativa')
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -65,7 +65,7 @@
         p El pensamiento estratégico es una manera diferente para pensar reflexivamente sobre cómo enfrentar las incertidumbres y dificultades que se presentan en los negocios; el empresario debe reflexionar, planear y actuar con una alta capacidad proactiva y una actitud asertiva, investigando los mercados y la competencia.
         p El tener un pensamiento estratégico empresarial, le posibilita al empresario visualizar múltiples oportunidades de negocios y construir diversas estrategias para actuar con inteligencia empresarial.
         p El siguiente elemento, describe las partes principales de dicho tipo de pensamiento:
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-10.desktop
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)

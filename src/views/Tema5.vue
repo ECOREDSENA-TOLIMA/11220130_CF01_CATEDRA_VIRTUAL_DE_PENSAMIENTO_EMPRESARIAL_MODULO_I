@@ -17,12 +17,12 @@
       .col-lg-12
         p La matriz DOFA es una herramienta administrativa que se utiliza para realizar diagnósticos reales del modo en que se enfoca una idea de negocio y de esta manera orientar la toma decisiones. Esta matriz permite identificar Debilidades (D), Oportunidades (O), Fortalezas (F) y Amenazas (A).
     
-    .titulo-sexto.color-acento-contenido.offset-1
+    .titulo-sexto.color-acento-contenido.offset-2
       h5 Figura 8.
       span  #[i  Ejemplificación DOFA]
 
     .row.justify-content-center.mb-5
-      .col-md-10.desktop 
+      .col-md-8.desktop 
         figure
           img(src='@/assets/curso/temas/tema5/img1.svg', alt='Figura que hace relación a los factores de la matriz DOFA, donde se muestra un atleta con los aspectos positivos y negativos que se pueden presentar al hacer ejercicio.')
       .col-md-6.movil
@@ -36,9 +36,9 @@
     .titulo-sexto.color-acento-contenido.offset-1
       h5 Tabla 1.
       span  #[i  Factores de la matriz DOFA]
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-8
-        .tabla-a.color-acento-contenido.mb-5
+        .tabla-a.color-acento-contenido
           table
             thead
               tr
@@ -55,9 +55,6 @@
                 td Oportunidades
                 td Amenazas
 
-    .titulo-segundo.mt-5.color-acento-contenido
-      #t_2_3.h2 La matriz DOFA cruzada
-
     .titulo-decorativo.my-5(data-aos="fade-up")
       .cont-figura
         img(src="@/assets/curso/temas/tema2/img6.svg")
@@ -68,12 +65,12 @@
       .col-lg-12
         p Es una herramienta que permite combinar los factores internos con los factores externos, identificados en el análisis DOFA. Para diligenciar dicha matriz, se deben tener en cuenta las diferentes estrategias o acciones para confrontar con éxito las siguientes variables; así como se puede apreciar en la siguiente tabla:
     
-    .titulo-sexto.color-acento-contenido.offset-1
+    .titulo-sexto.color-acento-contenido.offset-0
       h5 Tabla 2.
       span  #[i  Matriz DOFA cruzada]
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-12
-        .tabla-a.color-acento-contenido.mb-5
+        .tabla-a.color-acento-contenido
           table
             thead
               tr
@@ -110,41 +107,41 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.p-4
+        .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
-                img(src='@/assets/curso/temas/tema5/img2.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema5/img2.svg', alt='Imagen Decorativa')
 
           h3.text-center Sobreviva
           p.text-small Aquí se definen estrategias o acciones orientadas a reducir las debilidades, con el fin de que no incremente el riesgo de las amenazas.
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.p-4
+        .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
-                img(src='@/assets/curso/temas/tema5/img3.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema5/img3.svg', alt='Imagen Decorativa')
 
           h3.text-center Defensivo
           p.text-small Actuaciones que reducen las debilidades para que no incremente el riesgo de las amenazas.
 
       .col-sm-6.col-lg-3.mb-4.mb-sm-0
-        .tarjeta--boton.color-secundario.text-white--hover.p-4
+        .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
-                img(src='@/assets/curso/temas/tema5/img4.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema5/img4.svg', alt='Imagen Decorativa')
 
           h3.text-center Ajuste
           p.text-small Acciones que fortalecen los puntos fuertes y eliminan las amenazas.
 
       .col-sm-6.col-lg-3
-        .tarjeta--boton.color-secundario.p-4
+        .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
-                img(src='@/assets/curso/temas/tema5/img5.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema5/img5.svg', alt='Imagen Decorativa')
 
           h3.text-center Ofensivo
           p.text-small Acciones orientadas a fortalecer las fuentes de mayor oportunidad, con el fin de aprovecharlas positivamente.

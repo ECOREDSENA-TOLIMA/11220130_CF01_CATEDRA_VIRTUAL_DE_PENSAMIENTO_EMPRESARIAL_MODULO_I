@@ -11,19 +11,19 @@
         p La persona enfocada al éxito encamina sus pasos soportados en el proyecto de vida, porque evidencia que la persona apropia su devenir, lo inserta en el presente y lo proyecta al futuro; es decir, que este se constituye en gran soporte para su desarrollo empresarial.
         p Como todo proyecto, la estructura del proyecto de vida está compuesta por visión, misión, estrategias, objetivos y metas. Además, por su naturaleza está estructurado por planes que orientan la acción en diferentes ámbitos, como familiar, social, formativo o económico que dan sentido a la existencia del ser. Ahora, es de interés el plan económico, puesto que integra los conocimientos y talentos necesarios para la creación de empresa.
     
-    .titulo-sexto.color-acento-contenido.offset-1
+    .titulo-sexto.color-acento-contenido.offset-2
       h5 Figura 5.
       span  #[i  Proyecto de vida]
 
-    .row.justify-content-center.mb-5
-      .col-md-10.desktop 
+    .row.justify-content-center
+      .col-md-8.desktop 
         figure
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='Figura que relaciona los aspectos que hacen parte del proyecto de vida, como son: Proyecto de vida, Misión, Visión, Estrategias, Objetivos, Metas')
       .col-md-6.movil
         figure
           img(src='@/assets/curso/temas/tema4/img1_1.svg', alt='Figura que relaciona los aspectos que hacen parte del proyecto de vida, como son: Proyecto de vida, Misión, Visión, Estrategias, Objetivos, Metas')
     
-    .titulo-decorativo.my-5(data-aos="fade-up")
+    .titulo-decorativo.my-4(data-aos="fade-up")
       .cont-figura
         img(src="@/assets/curso/temas/tema2/img6.svg")
       .cont-text 
@@ -40,22 +40,22 @@
         p En esta medida, los sueños pueden ser alcanzables, porque están soportados en los pilares que reconoce internamente el ser en toda su dimensión. Se puede afirmar que quien establece planes para su vida, tiene definido un proyecto de vida, lo cual lo convierte en constructor de su propio destino.
         .cajon.color-primario.p-4.mb-4
           p Cada plan o propósito de vida, se encuentra relacionado con el progreso y avance de quien lo escribe, enfocándose en la materialización de su visión. Su naturaleza está orientada a encauzar los pasos de quien camina en función de alcanzar logros en un tiempo, lugar, espacio y modo, seguir unos valores y principios; esto es la misión.
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-12
         p Los planes que estructuran el proyecto de vida están relacionados con la familia, la educación, la economía personal y las aspiraciones más elevadas. Los planes determinan las acciones necesarias para desarrollar dicho proyecto de vida; desde el punto de vista del plan económico, este se convierte para el emprendedor en la oportunidad de poder desarrollar un trabajo independiente.
     
-    .titulo-decorativo.my-5(data-aos="fade-up")
+    .titulo-decorativo.my-4(data-aos="fade-up")
       .cont-figura
         img(src="@/assets/curso/temas/tema2/img6.svg")
       .cont-text 
         h3 ¿Cómo se construye el proyecto de vida?
     
-    .titulo-sexto.color-acento-contenido.offset-1
+    .titulo-sexto.color-acento-contenido.offset-0
       h5 Figura 6.
       span  #[i  Construcción del proyecto de vida]
 
     .row.justify-content-center.mb-5
-      .col-md-10.desktop 
+      .col-md-12.desktop 
         figure
           img(src='@/assets/curso/temas/tema4/img3.svg', alt='Figura que menciona los procesos que se tienen en cuenta en la construcción del proyecto de vida, los cuales inician con el diseño del proyecto de vida, luego pasan a una visualización del futuro, para finalizar con la movilización.')
       .col-md-6.movil
@@ -66,7 +66,7 @@
       .col-lg-12
         p El diseño del proyecto de vida parte de las siguientes reflexiones:
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-10
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row(titulo="")
@@ -118,14 +118,14 @@
             .col-md-4
               figure 
                 img(src="@/assets/curso/temas/tema4/img10.jpg")
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
         p El proyecto de vida elaborado como un plan, es la base estratégica para la creación de la empresa, dado que es la concepción misional para ser autónomo del futuro, esto permitirá visualizar con sentido de oportunidad esa idea de negocio necesaria y vital para crear e innovar el producto o servicio que apalancará el desarrollo empresarial sostenible.
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-8
-        .cajon.color-primario.p-4.mb-4
+        .cajon.color-primario.p-4
           p Empresa y proyecto de vida, son dos conceptos complementarios e interdependientes, conviven y se armonizan para ser la clave del éxito del emprendedor.
-        .titulo-decorativo.my-5(data-aos="fade-up")
+        .titulo-decorativo.my-4(data-aos="fade-up")
           .cont-figura
             img(src="@/assets/curso/temas/tema2/img6.svg")
           .cont-text 
@@ -136,7 +136,7 @@
         figure 
           img(src="@/assets/curso/temas/tema4/img11.png")
     separador
-    .titulo-segundo.mt-5.color-acento-contenido
+    .titulo-segundo.color-acento-contenido
       #t_4_1.h2 4.1 Estudio del sector o de la industria
 
     .row.justify-content-center.align-items-center.mb-5
@@ -151,25 +151,25 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Política económica favorable, facilidad de financiamiento, impuestos, empleos que generan participación de la industria en el PIB (Producto Interno Bruto), ubicar el clúster y las aglomeraciones a nivel nacional e internacional.
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-12
         p Es importante desarrollar con detenimiento los anteriores puntos, debido a que son fuentes de oportunidades para su emprendimiento.
     
-    .titulo-decorativo.my-5(data-aos="fade-up")
+    .titulo-decorativo.my-4(data-aos="fade-up")
       .cont-figura
         img(src="@/assets/curso/temas/tema2/img6.svg")
       .cont-text 
         h3 Estado actual de la industria
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-12
         p Cuando se conocen los antecedentes del sector o la industria, se requiere conocer su estado actual. Esto se refiere al conocimiento de los productos, los servicios, los clientes, la competencia, los proveedores, la tecnología, las herramientas administrativas, los procedimientos, entre otros. Se debe ubicar el producto dentro de la clasificación estándar existente a nivel mundial con un código CIIU (Clasificación Internacional Industrial Uniforme), para visualizar el sector industrial al cual pertenece la idea de negocio y sus referentes o características.
 
     separador 
     
-    .titulo-segundo.mt-5.color-acento-contenido
+    .titulo-segundo.color-acento-contenido.mb-1
       #t_4_2.h2 4.2 Estructura del proyecto de vida
     
-    .titulo-decorativo.my-5(data-aos="fade-up")
+    .titulo-decorativo.my-4.mt-5(data-aos="fade-up")
       .cont-figura
         img(src="@/assets/curso/temas/tema2/img6.svg")
       .cont-text 
@@ -190,7 +190,7 @@
         figure
           img(src='@/assets/curso/temas/tema4/img13_1.svg', alt='Figura que menciona que la visión, la misión y el norte, hacen parte de la estructura del proyecto de vida.')
     
-    .titulo-decorativo.my-5(data-aos="fade-up")
+    .titulo-decorativo.my-4(data-aos="fade-up")
       .cont-figura
         img(src="@/assets/curso/temas/tema2/img6.svg")
       .cont-text 

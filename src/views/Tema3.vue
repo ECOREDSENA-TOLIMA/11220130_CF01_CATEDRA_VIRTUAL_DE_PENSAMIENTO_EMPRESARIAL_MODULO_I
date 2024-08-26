@@ -32,21 +32,21 @@
           img(src='@/assets/curso/temas/tema3/img2.svg' alt='AvatarTop')
           .tarjeta.color-primario.w-100
             .text-black.p-4
-              h2.text-center ¿Cómo se puede hacer algo mejor de lo que ya está hecho?
+              h4.text-center ¿Cómo se puede hacer algo mejor de lo que ya está hecho?
               p
       .col-lg-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img3.svg' alt='AvatarTop')
           .tarjeta.color-primario.w-100
             .text-black.p-4
-              h2.text-center ¿Cómo se puede hacer de forma diferente a lo que existe?
+              h4.text-center ¿Cómo se puede hacer de forma diferente a lo que existe?
               p
       .col-lg-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img4.svg' alt='AvatarTop')
           .tarjeta.color-primario.w-100
             .text-black.p-4
-              h2.text-center ¿Cómo se puede hacer algo que falta en esta empresa?
+              h4.text-center ¿Cómo se puede hacer algo que falta en esta empresa?
               p
     .titulo-decorativo.my-5(data-aos="fade-up")
       .cont-figura
@@ -54,42 +54,44 @@
       .cont-text 
         h3 Pasos para producir una idea
     
-    PasosA.color-acento-contenido.mb-5(tipo="n")
-      .row(titulo="")
-        .col-md-8.mb-4.mb-md-0          
-          p Elaborar una lista sobre los gustos y las aptitudes que tiene para realizar en el entorno familiar, académico, social y laboral.
-        .col-md-4
-          figure 
-            img(src="@/assets/curso/temas/tema3/img5.jpg")
-      .row(titulo="")
-        .col-md-4
-          figure 
-            img(src="@/assets/curso/temas/tema3/img6.jpg")
-        .col-md-8.mb-4.mb-md-0          
-          p Describir las cosas que no le gusta hacer y en las que no tiene aptitudes para realizar en el entorno familiar, académico, social y laboral.
-      .row(titulo="")
-        .col-md-8.mb-4.mb-md-0          
-          p Comparar ambos listados y pensar qué ideas surgen como posible solución, con el fin de mejorar los gustos y aptitudes para innovar o cambiar aquello que no le gusta o que no puede hacer.
-        .col-md-4
-          figure 
-            img(src="@/assets/curso/temas/tema3/img7.jpg")
-      .row(titulo="")
-        .col-md-4
-          figure 
-            img(src="@/assets/curso/temas/tema3/img8.jpg")
-        .col-md-8.mb-4.mb-md-0          
-          p Realizar el mismo ejercicio, pero desde una óptica profesional y ejecutar la comparación. Preguntarse:
-          p ¿Cuántas personas sienten las mismas u otras necesidades profesionales?
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        PasosA.color-acento-contenido.mb-5(tipo="n")
+          .row(titulo="")
+            .col-md-8.mb-4.mb-md-0          
+              p Elaborar una lista sobre los gustos y las aptitudes que tiene para realizar en el entorno familiar, académico, social y laboral.
+            .col-md-4
+              figure 
+                img(src="@/assets/curso/temas/tema3/img5.jpg")
+          .row(titulo="")
+            .col-md-4
+              figure 
+                img(src="@/assets/curso/temas/tema3/img6.jpg")
+            .col-md-8.mb-4.mb-md-0          
+              p Describir las cosas que no le gusta hacer y en las que no tiene aptitudes para realizar en el entorno familiar, académico, social y laboral.
+          .row(titulo="")
+            .col-md-8.mb-4.mb-md-0          
+              p Comparar ambos listados y pensar qué ideas surgen como posible solución, con el fin de mejorar los gustos y aptitudes para innovar o cambiar aquello que no le gusta o que no puede hacer.
+            .col-md-4
+              figure 
+                img(src="@/assets/curso/temas/tema3/img7.jpg")
+          .row(titulo="")
+            .col-md-4
+              figure 
+                img(src="@/assets/curso/temas/tema3/img8.jpg")
+            .col-md-8.mb-4.mb-md-0          
+              p Realizar el mismo ejercicio, pero desde una óptica profesional y ejecutar la comparación. Preguntarse:
+              p ¿Cuántas personas sienten las mismas u otras necesidades profesionales?
 
-      .row(titulo="")
-        .col-md-8.mb-4.mb-md-0          
-          p Ahora, reflexionar en lo elaborado y responder a las preguntas:
-          p ¿Por qué quiere iniciar un negocio?
-          p ¿Se requiere un negocio en su entorno que ofrezca un producto o servicio que le guste hacer o en lo que tiene grandes aptitudes?
+          .row(titulo="")
+            .col-md-8.mb-4.mb-md-0          
+              p Ahora, reflexionar en lo elaborado y responder a las preguntas:
+              p ¿Por qué quiere iniciar un negocio?
+              p ¿Se requiere un negocio en su entorno que ofrezca un producto o servicio que le guste hacer o en lo que tiene grandes aptitudes?
 
-        .col-md-4
-          figure 
-            img(src="@/assets/curso/temas/tema3/img9.jpg")
+            .col-md-4
+              figure 
+                img(src="@/assets/curso/temas/tema3/img9.jpg")
 
 
     .row.justify-content-center.align-items-center.mb-5

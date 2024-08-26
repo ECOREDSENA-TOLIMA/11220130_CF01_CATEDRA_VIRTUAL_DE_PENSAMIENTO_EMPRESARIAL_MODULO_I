@@ -1,20 +1,20 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-3
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Ser emprendedor
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
         p Las empresas son creadas por emprendedores exitosos, con el fin de satisfacer las necesidades demandadas por los empresarios y las familias; los primeros, demandan insumos y los segundos, productos o servicios, contribuyendo al desarrollo económico del país. Es necesario entonces, que el ser humano redescubra su espíritu empresarial, para que, a partir de allí, visualice, innove, gestione y contribuya a construir el futuro de su región, de su estado y del mundo entero, para que conserve y retroalimente el ser emprendedor, con base en una actitud de pensamiento creativo y estratégico; tal cual como se sintetiza en la siguiente figura:
 
-    .titulo-sexto.color-acento-contenido.offset-1
+    .titulo-sexto.color-acento-contenido.offset-2
       h5 Figura 1.
       span  #[i  Ser emprendedor]
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-md-8.desktop 
         figure
           img(src='@/assets/curso/temas/tema1/img1.svg', alt='Figura que menciona las cuatro (4) acciones que se deben tener en cuenta para ser un emprendedor; estas son: Innovador, creativo, estratégico y gestor.')
@@ -24,14 +24,14 @@
     
     separador 
 
-    .titulo-segundo.mt-5.color-acento-contenido
+    .titulo-segundo.color-acento-contenido
       #t_1_1.h2 1.1 Características del emprendedor
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
         p Ser empresario y poner en marcha un proyecto, exige tener unas características personales y profesionales específicas; por lo tanto, un emprendedor debería cumplir por lo menos con las siguientes cualidades:
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-8
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Creatividad e innovación")
@@ -67,7 +67,7 @@
 
     separador 
     
-    .titulo-segundo.mt-5.color-acento-contenido
+    .titulo-segundo.color-acento-contenido
       #t_1_2.h2 1.2 Oportunidades de negocios
     
     .row.justify-content-center.align-items-center.mb-5
@@ -85,19 +85,19 @@
       span  #[i  Ideas de negocio]
 
     .row.justify-content-center.mb-5
-      .col-md-8.desktop 
+      .col-md-10.desktop 
         figure
           img(src='@/assets/curso/temas/tema1/img4.svg', alt='Figura que menciona las líneas presentes cuando se desea generar una idea de negocio; estas son: 1. Planeación estratégica. 2. Investigación de mercados. 3. Diagnóstico de la empresa. 4. Análisis sectorial.')
       .col-md-6.movil
         figure
           img(src='@/assets/curso/temas/tema1/img4_1.svg', alt='Figura que menciona las líneas presentes cuando se desea generar una idea de negocio; estas son: 1. Planeación estratégica. 2. Investigación de mercados. 3. Diagnóstico de la empresa. 4. Análisis sectorial.')
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-12
         p El emprendimiento es el instrumento para crear ideas de negocios, innovar productos o servicios que representen un diferencial en el valor agregado, frente a los existentes y así poder llegar a la conformación de nuevas empresas. El poder correlacionar emprendimiento con empresa conduce a explorar oportunidades que solo su entorno económico puede proporcionar; es decir, interviniendo el tejido empresarial, estudiándolo y generando ideas de negocios que el mercado regional, nacional e internacional brinda.
 
     separador 
     
-    .titulo-segundo.mt-5.color-acento-contenido
+    .titulo-segundo.color-acento-contenido
       #t_1_3.h2 1.3 Actitud de pensamiento
     
     .row.justify-content-center.align-items-center.mb-5
@@ -110,14 +110,14 @@
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/img5.svg', alt='Imagen decorativa')
-        h2.text-center Einstein dijo
+        h4.text-center Einstein dijo
         p “Usted no puede resolver problemas con el mismo pensamiento que lo metió en ellos en primer lugar”.
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/img6.svg', alt='Imagen decorativa')
-        h2.text-center #[i Sterility leads to susceptibility]
+        h4.text-center #[i Sterility leads to susceptibility]
         p En otras palabras, la persona está, donde está, porque piensa como piensa.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10

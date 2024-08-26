@@ -6,6 +6,7 @@
       .titulo-principal__numero
         span 6
       h1 Delineando el plan estratégico
+    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         figure
@@ -19,18 +20,18 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p El conocimiento de la temática del plan estratégico, ofrece a todas las empresas infinidad de posibilidades para diseñarlo. Esto, es en función del crecimiento, expansión, diversificación, impacto social y movimientos, según el tipo de integración y otras variables.
+    .row.bg--gradientBlue
+      .titulo-sexto.color-acento-contenido.offset-1
+        h5 Figura 9.
+        span  #[i  Componentes del plan estratégico]
 
-    .titulo-sexto.color-acento-contenido.offset-1
-      h5 Figura 9.
-      span  #[i  Componentes del plan estratégico]
-
-    .row.justify-content-center.mb-5
-      .col-md-10.desktop 
-        figure
-          img(src='@/assets/curso/temas/tema6/img2.svg', alt='Figura que a través de un esquema relaciona los componentes que hacen parte de un plan estratégico, incluyendo visión, políticas, misión, objetivos, DOFA, factores, plan de acción y cronograma.')
-      .col-md-6.movil
-        figure
-          img(src='@/assets/curso/temas/tema6/img3.svg', alt='Figura que a través de un esquema relaciona los componentes que hacen parte de un plan estratégico, incluyendo visión, políticas, misión, objetivos, DOFA, factores, plan de acción y cronograma.')
+      .row.justify-content-center.mb-5
+        .col-md-10.desktop 
+          figure
+            img(src='@/assets/curso/temas/tema6/img2.svg', alt='Figura que a través de un esquema relaciona los componentes que hacen parte de un plan estratégico, incluyendo visión, políticas, misión, objetivos, DOFA, factores, plan de acción y cronograma.')
+        .col-md-6.movil
+          figure
+            img(src='@/assets/curso/temas/tema6/img3.svg', alt='Figura que a través de un esquema relaciona los componentes que hacen parte de un plan estratégico, incluyendo visión, políticas, misión, objetivos, DOFA, factores, plan de acción y cronograma.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
