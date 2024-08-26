@@ -323,12 +323,17 @@ export default {
         {
           nombre: 'José Herney Sánchez Pizarro',
           cargo: 'Experto temático',
-          centro: 'Dirección General',
+          centro: 'Dirección General SENA',
         },
         {
           nombre: 'Kennia Andrea Peña Barrera',
           cargo: 'Asesora pedagógica',
-          centro: 'Dirección General',
+          centro: 'Dirección General SENA',
+        },
+        {
+          nombre: 'Zulma Yurany Viancha Rodríguez',
+          cargo: 'Líder de la línea de producción',
+          centro: 'Dirección General SENA',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
@@ -346,17 +351,27 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
+          nombre: 'Oscar Ivan Uribe Ortiz',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
           nombre: 'Veimar Celis Melendez',
           cargo: 'Desarrollador <em>Fullstack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador <em>Fullstack</em> AD',
+          cargo: 'Desarrollador <em>Fullstack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -366,7 +381,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Norma Contanza Morales Cruz',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },

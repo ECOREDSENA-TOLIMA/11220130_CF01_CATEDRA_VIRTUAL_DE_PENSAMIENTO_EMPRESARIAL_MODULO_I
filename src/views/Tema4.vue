@@ -200,16 +200,19 @@
         p El negocio no lo determina el producto, sino el consumidor. Sin embargo, la base que soporta el proyecto de vida, es la visión emprendedora. Es necesario plantearse la pregunta: ¿Cuál es el negocio? En el campo de la administración, Peter Drucker, afirma:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center.mb-3
           .col-lg-6
             .bloque-texto-c.color-primario.p-4
+              i.fas.fa-quote-left
+              h4.mb-2 La declaración de la misión es una declaración de la “razón de ser” de la empresa.
               i.fas.fa-quote-right
-              h3.mb-2 La declaración de la misión es una declaración de la “razón de ser” de la empresa.
+              br
               span - Peter Drucker
           .col-lg-6
             .bloque-texto-c.color-primario.p-4
+              i.fas.fa-quote-left
+              h4.mb-2 Una declaración clara de la misión resulta esencial para establecer objetivos y establecer estrategias de la manera más eficaz.
               i.fas.fa-quote-right
-              h3.mb-2 Una declaración clara de la misión resulta esencial para establecer objetivos y establecer estrategias de la manera más eficaz
               span - Peter Drucker
         p Desde el punto de vista del ser, el emprendedor es quien establece su misión, manifiesta su propósito, sus ideales, principios y creencias. Este código constituye el elemento diferenciador frente a los demás seres humanos. Por lo tanto, cuando imprime su sello en la misión para la creación de la empresa, logra dejar clara su ventaja competitiva.
         p Teniendo en cuenta lo mencionado anteriormente, se puede elaborar el plan económico, en el que además debe reconocer las acciones, el lugar y el tiempo en que estas se desarrollarán; hay que plantear la visión, la misión, los objetivos, las metas y las estrategias. Estas últimas deben desplegarse en un cronograma de actividades y tareas, indicando lugar, fecha de realización e indicadores para medir el desempeño.
