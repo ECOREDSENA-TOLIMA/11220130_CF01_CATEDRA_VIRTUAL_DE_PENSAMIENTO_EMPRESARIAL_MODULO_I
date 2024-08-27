@@ -281,7 +281,7 @@ export default {
       referencia:
         'Paredes, E. (2010). La Matriz FODA cruzada para ideas de negocio.',
       link:
-        'http://gestionando-empresas.blogspot.com/2010/08/la-matriz-foda-cruzada-para-ideas-de-negocio.html',
+        'http://gestionando-empresas.blogspot.com/2010/08/la-matriz-foda-cruzada-para-ideas-de.html',
     },
     {
       referencia:
