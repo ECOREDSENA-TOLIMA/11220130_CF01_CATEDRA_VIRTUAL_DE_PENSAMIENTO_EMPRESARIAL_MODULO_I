@@ -20,7 +20,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p El conocimiento de la temática del plan estratégico, ofrece a todas las empresas infinidad de posibilidades para diseñarlo. Esto, es en función del crecimiento, expansión, diversificación, impacto social y movimientos, según el tipo de integración y otras variables.
-    .row.bg--gradientBlue
+    .row.bg--gradientBlue.mb-4
       .titulo-sexto.color-acento-contenido.offset-1
         h5 Figura 9.
         span  #[i  Componentes del plan estratégico]

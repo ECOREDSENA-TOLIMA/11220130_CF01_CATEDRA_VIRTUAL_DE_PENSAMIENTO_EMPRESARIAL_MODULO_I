@@ -7,7 +7,7 @@
         span 5
       h1 Análisis del entorno (DOFA)
     
-    .titulo-decorativo.my-5(data-aos="fade-up")
+    .titulo-decorativo.mb-5(data-aos="fade-up")
       .cont-figura
         img(src="@/assets/curso/temas/tema2/img6.svg")
       .cont-text 
@@ -33,7 +33,7 @@
         p En cuanto a los aspectos positivos, si se conocen las oportunidades, habrá claridad hacia donde se debe dirigir el emprendimiento, hay que tener en cuenta que su desconocimiento lo puede llevar al fracaso. Por su parte, la identificación de las habilidades facilita la definición de los objetivos, metas claras y precisas, las cuales harán que se identifiquen las fortalezas, facilitando el mejoramiento de debilidades para atacar con éxito las oportunidades que brinda el entorno.
         p En los aspectos negativos, el conocimiento de las amenazas permite definir medidas para enfrentarlas o para minimizar sus efectos. Finalmente, las debilidades son de origen interno, razón por la cual su identificación puede repercutir en la creación de un plan de mejoramiento Para mayor claridad, se invita a analizar la siguiente tabla:
 
-    .titulo-sexto.color-acento-contenido.offset-1
+    .titulo-sexto.color-acento-contenido.offset-2
       h5 Tabla 1.
       span  #[i  Factores de la matriz DOFA]
     .row.justify-content-center.align-items-center
@@ -114,7 +114,7 @@
                 img(src='@/assets/curso/temas/tema5/img2.svg', alt='Imagen Decorativa')
 
           h3.text-center Sobreviva
-          p.text-small Aquí se definen estrategias o acciones orientadas a reducir las debilidades, con el fin de que no incremente el riesgo de las amenazas.
+          p Aquí se definen estrategias o acciones orientadas a reducir las debilidades, con el fin de que no incremente el riesgo de las amenazas.
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4
@@ -124,9 +124,9 @@
                 img(src='@/assets/curso/temas/tema5/img3.svg', alt='Imagen Decorativa')
 
           h3.text-center Defensivo
-          p.text-small Actuaciones que reducen las debilidades para que no incremente el riesgo de las amenazas.
+          p Actuaciones que reducen las debilidades para que no incremente el riesgo de las amenazas.
 
-      .col-sm-6.col-lg-3.mb-4.mb-sm-0
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
@@ -134,9 +134,9 @@
                 img(src='@/assets/curso/temas/tema5/img4.svg', alt='Imagen Decorativa')
 
           h3.text-center Ajuste
-          p.text-small Acciones que fortalecen los puntos fuertes y eliminan las amenazas.
+          p Acciones que fortalecen los puntos fuertes y eliminan las amenazas.
 
-      .col-sm-6.col-lg-3
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
@@ -144,7 +144,7 @@
                 img(src='@/assets/curso/temas/tema5/img5.svg', alt='Imagen Decorativa')
 
           h3.text-center Ofensivo
-          p.text-small Acciones orientadas a fortalecer las fuentes de mayor oportunidad, con el fin de aprovecharlas positivamente.
+          p Acciones orientadas a fortalecer las fuentes de mayor oportunidad, con el fin de aprovecharlas positivamente.
 
 
 </template>

@@ -61,7 +61,7 @@
           .row(titulo="Tenacidad y persistencia")
             .col-md-12.mb-4.mb-md-0
               p Actitudes y aptitudes para no rendirse ante la adversidad y el riesgo propio de los negocios, insistiendo y retroalimentándose permanentemente.
-      .col-lg-4
+      .col-lg-4.d-lg-flex.d-none
         figure
           img(src='@/assets/curso/temas/tema1/img2.png', alt='Imagen decorativa')
 
@@ -71,7 +71,7 @@
       #t_1_2.h2 1.2 Oportunidades de negocios
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema1/img3.png', alt='Imagen decorativa')
 

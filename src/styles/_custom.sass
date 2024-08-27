@@ -104,12 +104,16 @@
   border-radius: 0px 0px 20px 20px 
 .bg--gradientBlue
   background: linear-gradient(0deg, rgb(229, 245, 252) 0%, rgba(255,255,252,1) 100%)
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
 
 .dialogo.color-primario .dialogo__words__word
   color: #3c7792 !important
 
 .bg1
   background-image: url(../assets/curso/temas/tema6/imgfondo.png) !important
+  
 .slyder-b-img
   background-image: url(../assets/curso/temas/tema6/imgfondo.png) !important
 .fondo
@@ -386,9 +390,7 @@
 
 .img-infografica__item__dot:before
     opacity: 1 !important
-.tarjeta--boton 
-  background-color: #F3E0E9
-  height: 300px
+
 //CONTROLAR LAS IMAGENES EN MOVIL
 @media (min-width: 992px)
   .desktop 
@@ -397,6 +399,9 @@
     display: none
   .mts
     margin-top: 0.25rem  
+  .tarjeta--boton 
+    background-color: #F3E0E9
+    height: 370px
  
 @media (max-width: 991px)
   .movil 
@@ -405,3 +410,5 @@
     display: none
   .mts
     margin-top: -1.35rem
+  .tarjeta--boton 
+    background-color: #F3E0E9

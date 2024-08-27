@@ -22,7 +22,7 @@
       .col-lg-12
         p El apoyo a la innovación, el desarrollo tecnológico, la formación profesional, el talento humano y la promoción de la creatividad, conforman un escenario adecuado para que el esfuerzo de identificación de oportunidades de negocio, tenga impacto al desarrollar posteriormente empresas con capacidad de innovación y de incorporación de las nuevas tecnologías, que van a hacer de Colombia una economía competitiva en este siglo.
     .row.justify-content-center.align-items-center
-      .col-lg-5
+      .col-lg-5.col-10.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img2.png', alt='Imagen decorativa')
 
@@ -39,11 +39,11 @@
       #t_2_2.h2 2.2 Pensamiento creativo
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
+      .col-lg-8.order-lg-1.order-2
         p La creatividad es la capacidad y actitud que hacen que una persona sea forjadora de nuevos productos; es decir, basándose en la iniciativa, intuición, imaginación, curiosidad intelectual, persistencia, constancia, agilidad asociativa, inteligencia y fluidez mental, además de otras características, puede ella realizar el acto de creación de la solución de problemas.
         p La creación de ideas de negocios se entiende como ese procedimiento que se obtiene al descomponer la palabra creación: crear + acción; es decir, se generan las ideas, se analizan y se toma la decisión para elegir la más viable y posteriormente, se acciona y moviliza tal idea para asociarla a un producto o servicio, que se convertirá en la piedra angular de la empresa.
         p El pensamiento creativo se debe ejercitar mediante múltiples técnicas, que permitirán llegar a desarrollos de habilidades mentales cada vez más complejas, pero de gran utilidad para obtener productos o servicios más innovadores y convincentes.
-      .col-lg-5
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img3.png', alt='Imagen decorativa')
 
@@ -87,7 +87,7 @@
       .cont-text 
         h3 El riesgo
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.col-10.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img7.png', alt='Imagen decorativa')
       .col-lg-7

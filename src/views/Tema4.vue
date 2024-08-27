@@ -32,7 +32,7 @@
       .col-lg-12
         p La vida es una hoja en blanco que las personas escriben a partir de sueños, ideales y propósitos, los cuales se visualizan desde temprana edad y en la edad adulta los convierten en planes que orientan su existencia, de ese modo encaminan sus logros personales.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4.col-8.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
       .col-lg-6
@@ -70,59 +70,59 @@
       .col-lg-10
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row(titulo="")
-            .col-md-8.mb-4.mb-md-0
+            .col-lg-8.order-lg-1.order-2
               h4 Revisar la historia de vida, vivencias y experiencias       
               p Determinan lo que se desea ser; es decir, aportan las bases para diseñar el proyecto de vida.
-            .col-md-4
+            .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               figure 
                 img(src="@/assets/curso/temas/tema4/img4.jpg")
           .row(titulo="")
-            .col-md-4
+            .col-lg-4.col-8.mb-lg-0.mb-4
               figure 
                 img(src="@/assets/curso/temas/tema4/img5.jpg")
             .col-md-8.mb-4.mb-md-0          
               h4 Identificar las fortalezas y las áreas de oportunidad
               p Conocerse, permite saber con cuáles recursos y talentos se cuenta, para tener una vida exitosa. Se debe enumerar las fortalezas, las cuales serán instrumentos claves en la vida; es decir, factores que garantizan el éxito de la misma.
           .row(titulo="")
-            .col-md-8.mb-4.mb-md-0  
+            .col-lg-8.order-lg-1.order-2
               h4 Imaginar el futuro
               p Construir el propio destino, pero para concretarlo, se debe visualizar mentalmente en plazos, con imágenes mentales donde se pueda representar, desarrollando actividades que se desean llevar a cabo. Esto debe hacer parte fundamental del proyecto de vida.
-            .col-md-4
+            .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               figure 
                 img(src="@/assets/curso/temas/tema4/img6.jpg")
           .row(titulo="")
-            .col-md-4
+            .col-lg-4.col-8.mb-lg-0.mb-4
               figure 
                 img(src="@/assets/curso/temas/tema3/img7.jpg")
             .col-md-8.mb-4.mb-md-0          
               h4 Es clave escribir los objetivos
               p Hacer una lista de las metas que se desean alcanzar, de manera que se tengan siempre a la vista. Deben ser objetivos realistas, claros, precisos, alcanzables, aunque por la dinámica de la vida, estos deben ser ajustados permanentemente.
           .row(titulo="")
-            .col-md-8.mb-4.mb-md-0  
+            .col-lg-8.order-lg-1.order-2
               h4 Los planes de contingencia son necesarios
               p Si el cumplimiento de metas presenta dificultades, se debe mitigar el riesgo, identificando las situaciones que puedan dificultar la consecución de las metas y, por consiguiente, de los objetivos.
-            .col-md-4
+            .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               figure 
                 img(src="@/assets/curso/temas/tema4/img8.jpg")
           .row(titulo="")
-            .col-md-4
+            .col-lg-4.col-8.mb-lg-0.mb-4
               figure 
                 img(src="@/assets/curso/temas/tema3/img9.jpg")
             .col-md-8.mb-4.mb-md-0          
               h4 El proyecto de vida está conformado por planes
               p Se debe dar una toma de acciones a realizar día a día. Las metas, las acciones, los plazos y las condiciones, deben ponerse en un sitio visible, lo que permite evaluar permanentemente los resultados alcanzados.
           .row(titulo="")
-            .col-md-8.mb-4.mb-md-0  
+            .col-lg-8.order-lg-1.order-2
               h4 Replantear objetivos
               p La dinámica del mundo exige adaptarse a los cambios. De allí la importancia de tener una mentalidad abierta que permita ajustar los objetivos del proyecto de vida. Tener presente que replantear los objetivos, exige modificar las estrategias para alcanzar la vida deseada.
-            .col-md-4
+            .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               figure 
                 img(src="@/assets/curso/temas/tema4/img10.jpg")
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12
         p El proyecto de vida elaborado como un plan, es la base estratégica para la creación de la empresa, dado que es la concepción misional para ser autónomo del futuro, esto permitirá visualizar con sentido de oportunidad esa idea de negocio necesaria y vital para crear e innovar el producto o servicio que apalancará el desarrollo empresarial sostenible.
     .row.justify-content-center.align-items-center
-      .col-lg-8
+      .col-lg-8.order-lg-1.order-2
         .cajon.color-primario.p-4
           p Empresa y proyecto de vida, son dos conceptos complementarios e interdependientes, conviven y se armonizan para ser la clave del éxito del emprendedor.
         .titulo-decorativo.my-4(data-aos="fade-up")
@@ -132,14 +132,14 @@
             h3 ¿Se vincula el éxito del plan económico con el conocimiento del sector o la industria en la cual se desarrollará la creación de la empresa?
         p Los diagnósticos y antecedentes de la industria o del sector, su estado actual y el marco general, son relevantes para el éxito del emprendimiento y por lo tanto, del plan económico establecido en el proyecto de vida.
         p De este modo, los indicadores económicos como inflación, devaluación, recesión, tasas de interés, medidas gubernamentales, entre otros, se constituyen en una ventana para visualizar la viabilidad, rentabilidad y tendencia del sector al cual pertenece la idea de negocio, puesto que afectan positiva o negativamente la industria.
-      .col-lg-4
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
         figure 
           img(src="@/assets/curso/temas/tema4/img11.png")
     separador
     .titulo-segundo.color-acento-contenido
       #t_4_1.h2 4.1 Estudio del sector o de la industria
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-12
         p Se deben conocer al menos los últimos cinco años, de cinco operaciones, con el fin de analizar el crecimiento o decrecimiento del sector, establecer comparativos frente a las empresas más competitivas en el mercado y observar el comportamiento del mercado donde se desarrollará la creación de la empresa. El estudio del sector o la industria debe ser preciso y soportado en cifras. Esto requiere el uso de gráficas y tablas que faciliten su análisis y posteriores conclusiones. También, se requiere detallar las fases de desarrollo del sector o industria para su emprendimiento, relacionadas con el macroambiente, por ejemplo:
     
@@ -199,7 +199,7 @@
       .col-lg-12
         p El negocio no lo determina el producto, sino el consumidor. Sin embargo, la base que soporta el proyecto de vida, es la visión emprendedora. Es necesario plantearse la pregunta: ¿Cuál es el negocio? En el campo de la administración, Peter Drucker, afirma:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.order-lg-1.order-2
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-6
             .bloque-texto-c.color-primario.p-4
@@ -216,7 +216,7 @@
               span - Peter Drucker
         p Desde el punto de vista del ser, el emprendedor es quien establece su misión, manifiesta su propósito, sus ideales, principios y creencias. Este código constituye el elemento diferenciador frente a los demás seres humanos. Por lo tanto, cuando imprime su sello en la misión para la creación de la empresa, logra dejar clara su ventaja competitiva.
         p Teniendo en cuenta lo mencionado anteriormente, se puede elaborar el plan económico, en el que además debe reconocer las acciones, el lugar y el tiempo en que estas se desarrollarán; hay que plantear la visión, la misión, los objetivos, las metas y las estrategias. Estas últimas deben desplegarse en un cronograma de actividades y tareas, indicando lugar, fecha de realización e indicadores para medir el desempeño.
-      .col-lg-4
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema4/img14.png', alt='Imagen decorativa')
 </template>
