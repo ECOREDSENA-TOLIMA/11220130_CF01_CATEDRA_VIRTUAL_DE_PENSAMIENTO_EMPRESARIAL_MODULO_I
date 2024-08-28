@@ -8,17 +8,17 @@
       h1 Delineando el plan estratégico
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema6/img1.jpg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-right")
         p Para conocer el resultado de los análisis de entorno y el emprendedor, hay que saber que conocer el tipo de idea de negocio y su ubicación, contribuye con la capacidad para establecer metas, optimizando así el uso de los recursos. El conocimiento mencionado anteriormente, inicia un proceso administrativo, determinado por actividades y responsabilidades formuladas en planes de acción, liderados por emprendedores.
     .titulo-segundo.mt-5.color-acento-contenido
       #t_2_3.h2 Componentes del plan estratégico
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-right")
         p El conocimiento de la temática del plan estratégico, ofrece a todas las empresas infinidad de posibilidades para diseñarlo. Esto, es en función del crecimiento, expansión, diversificación, impacto social y movimientos, según el tipo de integración y otras variables.
     .row.bg--gradientBlue.mb-4
       .titulo-sexto.color-acento-contenido.offset-1
@@ -26,30 +26,30 @@
         span  #[i  Componentes del plan estratégico]
 
       .row.justify-content-center.mb-5
-        .col-md-10.desktop 
+        .col-md-10.desktop(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema6/img2.svg', alt='Figura que a través de un esquema relaciona los componentes que hacen parte de un plan estratégico, incluyendo visión, políticas, misión, objetivos, DOFA, factores, plan de acción y cronograma.')
-        .col-md-6.movil
+        .col-md-6.movil(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema6/img3.svg', alt='Figura que a través de un esquema relaciona los componentes que hacen parte de un plan estratégico, incluyendo visión, políticas, misión, objetivos, DOFA, factores, plan de acción y cronograma.')
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-right")
         p En este caso, se ha recorrido un camino que pasó por el plan económico, según el proyecto de vida, el análisis del sector, el análisis del entorno, el diagnóstico tanto interno y externo, según las matrices DOFA y DOFA cruzada y el diseño de estrategias. Ahora, en razón de la concienciación y la comprensión de los conceptos básicos, el límite del plan estratégico se establece en sus elementos estructurales, los cuales son:
 
-    .row.slyder-b-img.justify-content-center.align-items-center.mb-5
+    .row.slyder-b-img.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-11(style="margin-top:50px;")
         SlyderB.mb-5(:datos="datosSlyder")
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-right")
         p Para finalizar y tener clara la temática abordada en este último tema, es importante conocer un ejemplo de planeación estratégica, el cual se relaciona en la siguiente tabla:
         
     .titulo-sexto.color-acento-contenido.offset-1
       h5 Tabla 3.
       span  #[i  Ejemplo: café chat para investigar]
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="zoom-in")
         .tabla-a.color-acento-contenido.mb-5
           table
             thead

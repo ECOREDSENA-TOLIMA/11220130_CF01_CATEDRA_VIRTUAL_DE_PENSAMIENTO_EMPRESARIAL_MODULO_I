@@ -14,30 +14,30 @@
         h3 ¿Cómo se define la matriz DOFA?
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="fade-right")
         p La matriz DOFA es una herramienta administrativa que se utiliza para realizar diagnósticos reales del modo en que se enfoca una idea de negocio y de esta manera orientar la toma decisiones. Esta matriz permite identificar Debilidades (D), Oportunidades (O), Fortalezas (F) y Amenazas (A).
     
-    .titulo-sexto.color-acento-contenido.offset-2
+    .titulo-sexto.color-acento-contenido.offset-2(data-aos="zoom-in")
       h5 Figura 8.
       span  #[i  Ejemplificación DOFA]
 
     .row.justify-content-center.mb-5
-      .col-md-8.desktop 
+      .col-md-8.desktop(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema5/img1.svg', alt='Figura que hace relación a los factores de la matriz DOFA, donde se muestra un atleta con los aspectos positivos y negativos que se pueden presentar al hacer ejercicio.')
-      .col-md-6.movil
+      .col-md-6.movil(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema5/img1_1.svg', alt='Figura que hace relación a los factores de la matriz DOFA, donde se muestra un atleta con los aspectos positivos y negativos que se pueden presentar al hacer ejercicio.')
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p En cuanto a los aspectos positivos, si se conocen las oportunidades, habrá claridad hacia donde se debe dirigir el emprendimiento, hay que tener en cuenta que su desconocimiento lo puede llevar al fracaso. Por su parte, la identificación de las habilidades facilita la definición de los objetivos, metas claras y precisas, las cuales harán que se identifiquen las fortalezas, facilitando el mejoramiento de debilidades para atacar con éxito las oportunidades que brinda el entorno.
-        p En los aspectos negativos, el conocimiento de las amenazas permite definir medidas para enfrentarlas o para minimizar sus efectos. Finalmente, las debilidades son de origen interno, razón por la cual su identificación puede repercutir en la creación de un plan de mejoramiento Para mayor claridad, se invita a analizar la siguiente tabla:
+        p(data-aos="fade-right") En cuanto a los aspectos positivos, si se conocen las oportunidades, habrá claridad hacia donde se debe dirigir el emprendimiento, hay que tener en cuenta que su desconocimiento lo puede llevar al fracaso. Por su parte, la identificación de las habilidades facilita la definición de los objetivos, metas claras y precisas, las cuales harán que se identifiquen las fortalezas, facilitando el mejoramiento de debilidades para atacar con éxito las oportunidades que brinda el entorno.
+        p(data-aos="fade-right") En los aspectos negativos, el conocimiento de las amenazas permite definir medidas para enfrentarlas o para minimizar sus efectos. Finalmente, las debilidades son de origen interno, razón por la cual su identificación puede repercutir en la creación de un plan de mejoramiento Para mayor claridad, se invita a analizar la siguiente tabla:
 
-    .titulo-sexto.color-acento-contenido.offset-2
+    .titulo-sexto.color-acento-contenido.offset-2(data-aos="zoom-in")
       h5 Tabla 1.
       span  #[i  Factores de la matriz DOFA]
     .row.justify-content-center.align-items-center
-      .col-lg-8
+      .col-lg-8(data-aos="zoom-in")
         .tabla-a.color-acento-contenido
           table
             thead
@@ -63,13 +63,13 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p Es una herramienta que permite combinar los factores internos con los factores externos, identificados en el análisis DOFA. Para diligenciar dicha matriz, se deben tener en cuenta las diferentes estrategias o acciones para confrontar con éxito las siguientes variables; así como se puede apreciar en la siguiente tabla:
+        p(data-aos="fade-right") Es una herramienta que permite combinar los factores internos con los factores externos, identificados en el análisis DOFA. Para diligenciar dicha matriz, se deben tener en cuenta las diferentes estrategias o acciones para confrontar con éxito las siguientes variables; así como se puede apreciar en la siguiente tabla:
     
-    .titulo-sexto.color-acento-contenido.offset-0
+    .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
       h5 Tabla 2.
       span  #[i  Matriz DOFA cruzada]
     .row.justify-content-center.align-items-center
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in")
         .tabla-a.color-acento-contenido
           table
             thead
@@ -103,10 +103,10 @@
         h3 El significado de FA, FO, DA y DO
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p Cada una de las combinaciones que resultan en la Matriz DOFA cruzada, responden a las estrategias que blindan el emprendimiento para que sea exitoso y competitivo frente al mercado. Estas son:
+        p(data-aos="fade-right") Cada una de las combinaciones que resultan en la Matriz DOFA cruzada, responden a las estrategias que blindan el emprendimiento para que sea exitoso y competitivo frente al mercado. Estas son:
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in")
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
@@ -116,7 +116,7 @@
           h3.text-center Sobreviva
           p Aquí se definen estrategias o acciones orientadas a reducir las debilidades, con el fin de que no incremente el riesgo de las amenazas.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in")
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
@@ -126,7 +126,7 @@
           h3.text-center Defensivo
           p Actuaciones que reducen las debilidades para que no incremente el riesgo de las amenazas.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in")
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
@@ -136,7 +136,7 @@
           h3.text-center Ajuste
           p Acciones que fortalecen los puntos fuertes y eliminan las amenazas.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in")
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
