@@ -148,7 +148,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF01.pdf',
+        download: 'downloads/CFA_01_11220130_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -163,12 +163,6 @@ export default {
     ],
   },
   complementario: [
-    {
-      tema: 'Ser emprendedor',
-      referencia: 'Revista Emprendedores. (2024).',
-      tipo: 'Página web',
-      link: 'https://revistaemprendedores.co/',
-    },
     {
       tema: 'Ser emprendedor',
       referencia:
@@ -207,7 +201,7 @@ export default {
     {
       termino: 'Estrategia de promoción de venta',
       significado:
-        'acciones encaminadas a que la estrategia del <em>marketing</em>, una de los componentes del plan estratégico de la organización, alcance los objetivos y metas en forma exitosa y específica para lograr el incremento de la rentabilidad en función de aumentar las ventas.',
+        'acciones encaminadas a que la estrategia del <em>marketing</em>, uno de los componentes del plan estratégico de la organización, alcance los objetivos y metas en forma exitosa y específica para lograr el incremento de la rentabilidad en función de aumentar las ventas.',
     },
     {
       termino: 'Estrategia gerencial',
@@ -296,9 +290,9 @@ export default {
     },
     {
       referencia:
-        'Secretaria General del Senado. (1971). Código de Comercio, Decreto 410 de marzo 27 de 1971.',
+        'Presidencia de la República de Colombia. (1971). Código de Comercio, Decreto 410 de marzo 27 de 1971.',
       link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102',
     },
   ],
   creditos: [
@@ -357,12 +351,12 @@ export default {
         },
         {
           nombre: 'Veimar Celis Melendez',
-          cargo: 'Desarrollador <em>Fullstack</em>',
+          cargo: 'Desarrollador <em>Full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador <em>Fullstack</em>',
+          cargo: 'Desarrollador <em>Full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
