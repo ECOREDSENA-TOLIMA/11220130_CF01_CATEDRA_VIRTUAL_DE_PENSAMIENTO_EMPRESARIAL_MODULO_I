@@ -169,7 +169,7 @@ export default {
         'Cámara de Comercio de Bogotá. (2023). Prepárate para crear tu empresa',
       tipo: 'Página web',
       link:
-        'https://www.ccb.org.co/empresarial/crear-empresa/preparese-para-crear-empresa',
+        'https://www.ccb.org.co/servicios/crea-tu-empresa/preparate-para-crear-tu-empresa ',
     },
   ],
   glosario: [
