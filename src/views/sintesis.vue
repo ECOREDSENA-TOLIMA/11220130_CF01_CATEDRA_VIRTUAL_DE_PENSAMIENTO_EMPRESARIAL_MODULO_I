@@ -8,7 +8,7 @@
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="Imagen que contiene el mapa conceptual que resume la temática tratada durante este componente formativo, partiendo del hecho que la empresa tiene presente el pensamiento estratégico que tiene como fin el identificar las acciones del entorno; además, resalta que, para crear empresa, se debe analizar el entorno y crear un plan estratégico que esté basado en el proyecto de vida.")
       .col-auto(data-aos="fade-left")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis01.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
